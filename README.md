@@ -440,7 +440,8 @@ Simple analogy: Building an LLM is like teaching a student by having them read m
 | **Reasoning**     | ⭐ **(5/5)** – Strong reasoning ability for coding, mathematics, problem-solving, and step-by-step explanations. It is effective for learning and technical tasks.                                  | ⭐ **(5/5)** – Excellent reasoning skills, especially for complex analysis, research tasks, and understanding long or detailed information.                             |
 | **Speed**         | ⭐ **(5/5)** – Generates responses quickly and efficiently while maintaining good quality, making it suitable for interactive conversations.                                                        | ⭐ **(4.5/5)** – Provides detailed and thoughtful responses but may take slightly longer for complex tasks due to deeper analysis.    
 
-<img width="1536" height="1024" alt="Copilot_20260727_110601" src="https://github.com/user-attachments/assets/d750efb0-216d-47e8-9ed0-071912f190fc" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1e97b0b5-5964-417e-aec5-f1c1d6942417" />
+
 |
 
 ## Conclusion
