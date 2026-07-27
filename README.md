@@ -104,7 +104,6 @@ Characteristics:
 Generates original, context-aware content
 Works across text, images, audio, code
 Improves with fine-tuning
-Outputs vary even for the same prompt (non-deterministic)
 
 Advantages:
 
@@ -128,9 +127,7 @@ Conclusion: Generative AI shifts AI from analysis to creation — powerful but b
 
 ## 2.Generative AI architectures
 
-
 <img width="1536" height="1024" alt="ChatGPT Image Jul 27, 2026, 10_37_07 AM" src="https://github.com/user-attachments/assets/8b534c4c-ec48-418f-9837-05f0cf527dc5" />
-
 
 ## Chat GPT
 
@@ -192,6 +189,7 @@ Self-Attention	Finds relevance between all words	Links "it" to "animal," not "st
 Multi-Head Attention	Runs attention in parallel, different focuses	One head tracks grammar, another tracks meaning
 Feed-Forward Layer	Refines each word's representation	Adds depth to understanding
 Decoder (autoregressive)	Generates output token-by-token	Predicts "Paris" after "capital of France is"
+
 Conclusion
 
 Self-attention is the core innovation — it lets Transformers understand context across an entire input at once, making them the foundation of modern generative AI models like GPT and Claude.
@@ -199,8 +197,6 @@ Self-attention is the core innovation — it lets Transformers understand contex
 ## 3.Applications of Generative AI
 
 <img width="1536" height="1024" alt="ChatGPT Image Jul 27, 2026, 10_42_10 AM" src="https://github.com/user-attachments/assets/ec9af0b8-ead7-4045-bb2d-81b8264b3e59" />
-
-
 
 ## Chat GPT
 
