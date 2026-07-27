@@ -43,7 +43,7 @@ Describe how scaling affects Large Language Models. Explain the benefits of larg
 
 ## Prompt 5
 
-Create a simple image showing what an LLM is and how it is built, including data collection, AI model training, learning patterns, and final chatbot output. Use a clear flow diagram with simple icons.
+Create a simple explanation of what an LLM is and how it is built. Explain the process from data collection, AI model training, and learning patterns to generating chatbot responses. Use easy language and a clear step-by-step flow.
 
 ## 1.concepts of Generative AI
 ## Chat GPT
@@ -345,6 +345,9 @@ Strong few-shot learning	Slower, costlier deployment
 
 In short: Scaling makes LLMs smarter and more capable, but at the cost of money, speed, data availability, and sustainability — pushing researchers to focus on efficiency, not just size.
 ## 5.What is a Large Language Model (LLM)?
+
+<img width="1536" height="1024" alt="Copilot_20260727_110305" src="https://github.com/user-attachments/assets/26320d56-683c-4c8e-a4c7-7b039c39afe1" />
+
 ## ChatGPt
 What is an LLM and How is it Built?
 
