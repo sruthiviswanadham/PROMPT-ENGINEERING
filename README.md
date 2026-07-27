@@ -438,7 +438,10 @@ Simple analogy: Building an LLM is like teaching a student by having them read m
 | **Creativity**    | ⭐ **(5/5)** – Strong in creative writing, brainstorming, content generation, and producing different styles of responses. It can adapt tone, format, and ideas based on user requirements.         | ⭐ **(4.5/5)** – Produces creative and thoughtful responses with a natural writing style. It focuses more on structured creativity and meaningful explanations.         |
 | **Hallucination** | ⭐ **(4.5/5)** – Usually provides reliable information but may occasionally generate incorrect details when dealing with uncertain or highly specific topics.                                       | ⭐ **(5/5)** – Generally more cautious and transparent about uncertainty, reducing the chances of generating unsupported information.                                   |
 | **Reasoning**     | ⭐ **(5/5)** – Strong reasoning ability for coding, mathematics, problem-solving, and step-by-step explanations. It is effective for learning and technical tasks.                                  | ⭐ **(5/5)** – Excellent reasoning skills, especially for complex analysis, research tasks, and understanding long or detailed information.                             |
-| **Speed**         | ⭐ **(5/5)** – Generates responses quickly and efficiently while maintaining good quality, making it suitable for interactive conversations.                                                        | ⭐ **(4.5/5)** – Provides detailed and thoughtful responses but may take slightly longer for complex tasks due to deeper analysis.                                      |
+| **Speed**         | ⭐ **(5/5)** – Generates responses quickly and efficiently while maintaining good quality, making it suitable for interactive conversations.                                                        | ⭐ **(4.5/5)** – Provides detailed and thoughtful responses but may take slightly longer for complex tasks due to deeper analysis.    
+
+<img width="1536" height="1024" alt="Copilot_20260727_110601" src="https://github.com/user-attachments/assets/d750efb0-216d-47e8-9ed0-071912f190fc" />
+|
 
 ## Conclusion
 
